@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Vinícius
-
-<!---
-viniciusmartinsds/viniciusmartinsds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+    <a href="https://github.com/viniciusmartinsds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmartinsds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+    <div style="display: inline_block"><br>
+       <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+       <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-plain.svg">
+       <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      
+</div>
+     
